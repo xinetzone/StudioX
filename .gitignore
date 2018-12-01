@@ -2,7 +2,6 @@
 **/__pycache__
 *.params
 *.DS_Store
-*.csv
 *egg-info*
 **/build
 *.spec

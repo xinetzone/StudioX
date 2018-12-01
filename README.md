@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 学习笔记
 
-You can use the [editor on GitHub](https://github.com/xinetzone/StudioX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+主要记录和分享一些自己的学习笔记和心得体会。为了更好的查看笔记（大都是 `.md` 和 `.jpynb` 文件）除了下载到本地，你也可以点击 [mybinder](https://mybinder.org/v2/gh/xinetzone/StudioZone/master) 在线编辑。主要内容是关于深度学习的一些理论和动手实践，编程方面不限于 TensorFlow、Keras、Pytorch 以及 MXNet。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Gluon 学习](Gluon学习/README.md)
 
-### Markdown
+[Keras 实现](Keras实现/README.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[TensorFlow 实现](TensorFlow实现/README.md)
 
-```markdown
-Syntax highlighted code block
+[Pytorch 实现](Pytorch实现/README.md)
 
-# Header 1
-## Header 2
-### Header 3
+[杂文](杂文/README.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinetzone/StudioX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[理论](理论/README.md)

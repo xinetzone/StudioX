@@ -4,6 +4,10 @@
 
 [Gluon 学习](Gluon学习/README.md)
 
+[理论](理论/README.md)
+
+[Gluon 实现](Gluon实现/README.md)
+
 [Keras 实现](Keras实现/README.md)
 
 [TensorFlow 实现](TensorFlow实现/README.md)
@@ -11,5 +15,3 @@
 [Pytorch 实现](Pytorch实现/README.md)
 
 [杂文](杂文/README.md)
-
-[理论](理论/README.md)

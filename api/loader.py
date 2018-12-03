@@ -5,7 +5,7 @@ class Loader(dict):
     方法
     ========
     L 为该类的实例
-    len(L)::返回 batch 的批数
+    len(L)::返回样本数目
     iter(L)::即为数据迭代器
 
     Return
@@ -41,3 +41,6 @@ class Loader(dict):
                 yield np.take(self.X, K, 0)
             else:
                 yield np.take(self.X, K, 0), np.take(self.Y, K, 0)
+                
+    def __len__(self):
+        return self.nrows

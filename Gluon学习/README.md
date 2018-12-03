@@ -1,8 +1,5 @@
 # Gluon 学习笔记
 
-## 准备
-
-- 学习资料见 [这里](./学习材料.md)
 - [我的 Gluon 账户](https://discuss.gluon.ai/u/xinet)
 - [中文版 Gluon 教程](https://zh.diveintodeeplearning.org/)
 

@@ -15,3 +15,5 @@
 [Pytorch 实现](Pytorch实现/README.md)
 
 [杂文](杂文/README.md)
+
+[Linux 学习](Linux学习.pdf)

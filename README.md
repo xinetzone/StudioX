@@ -17,3 +17,5 @@
 [杂文](杂文/README.md)
 
 [Linux 学习](Linux学习.pdf)
+
+[Python 学习](Python/README.md)
